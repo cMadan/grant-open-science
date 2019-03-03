@@ -14,7 +14,7 @@ Organize a workshop for:
 * Learn about tools like Github
 * Learn about leadership and mentoring 
 * Meet awesome tweeps
-* Change academia :D 
+* Change academia (especially machine learning / biomedical) :D 
 
 ## When & where
 
