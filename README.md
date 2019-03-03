@@ -30,4 +30,4 @@ In the Netherlands, perhaps at http://www.lorentzcenter.nl/Lorentz-eScience.php.
 * Open science and Github expert: Kirstie
 * Leadership and mentoring expert: Natalia
 
-Add yourself here by forking this repository and creating a pull request, I promise you will not break it. 
+Add yourself here by forking this repository and creating a pull request. You might think you broke it and cry, but I promise it will be OK. 
