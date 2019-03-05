@@ -1,5 +1,10 @@
 # Mozilla Open Science mini-grant
 
+Information: https://medium.com/read-write-participate/seeking-projects-at-the-intersection-of-openness-and-science-3f2dd5a1fa00
+Call: https://mozilla.fluxx.io/apply/awards
+Google Doc: FIXME
+
+
 ## Idea
 
 Organize a workshop for:
