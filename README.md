@@ -49,5 +49,6 @@ So far we have the following people:
 * Open science and Github expert: Kirstie
 * Leadership and mentoring expert: Natalia
 * Open science enthusiast: Chloe
+* Open source scientist: Chris
 
 You can add yourself here by forking this repository and creating a pull request, or creating an issue, or talking to one of the collaborators via Slack or the Google doc. 
