@@ -20,15 +20,27 @@ Organize a workshop for:
 
 In the Netherlands, perhaps at http://www.lorentzcenter.nl/Lorentz-eScience.php. End of 2019 / start of 2020. Or summer 2020. 
 
-## How
 
-* Not entirely sure yet, but Kirstie is helping us! https://twitter.com/kirstie_j/status/1098574412964597761?s=19 
+
+# How
+* If you want to actively write the grant, we have a Slack. Ask one of the Github collaborators if you want to join. 
+* If you want to contribute ideas, issues and pull requests are welcome! There is also a Google doc somewhere FIXME.  
+* If you want to join the workshop, invite yourself. This is open and inclusive science after all :) 
+
 
 ## Who
+
+The idea is that this project has various types contributors. If Veronika has invited you to this project, she thinks you belong in at least one of these groups: 
+
+* Actively write this grant and join the workshop if they can 
+* Contribute ideas and join the workshop if they can 
+* Join at the workshop (as a speaker and or future/new/established PI)  
+
+So far we have the following people:
 
 * Idea and overwhelm: Veronika
 * Open science and Github expert: Kirstie
 * Leadership and mentoring expert: Natalia
 * Open science enthusiast: Chloe
 
-Add yourself here by forking this repository and creating a pull request. You might think you broke it and cry, but I promise it will be OK. 
+You can add yourself here by forking this repository and creating a pull request, or creating an issue, or talking to one of the collaborators via Slack or the Google doc. 
