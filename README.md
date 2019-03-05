@@ -29,5 +29,6 @@ In the Netherlands, perhaps at http://www.lorentzcenter.nl/Lorentz-eScience.php.
 * Idea and overwhelm: Veronika
 * Open science and Github expert: Kirstie
 * Leadership and mentoring expert: Natalia
+* Open science enthusiast: Chloe
 
 Add yourself here by forking this repository and creating a pull request. You might think you broke it and cry, but I promise it will be OK. 
